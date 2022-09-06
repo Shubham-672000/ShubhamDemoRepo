@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFShubhamDemo1"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
